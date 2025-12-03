@@ -5,7 +5,7 @@
 This codebase implements the five neural network models compared in our study: PAPRICA and four baseline architectures representing successive advances in multi-omic integration. These models enable accurate, scalable integration and analysis of complex microbiome data, supporting both cross-omic prediction and phenotype prediction tasks.
 
 <div align="center">
-  <img src="models_for_the_git.png" alt="Model Architectures" width="600"/>
+  <img src="models.png" alt="Model Architectures" width="600"/>
 </div>
 
 **Repository Structure:**
